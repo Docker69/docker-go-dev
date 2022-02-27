@@ -1,4 +1,4 @@
-# deis/go-dev
+# docker69/go-dev-env
 
 [![Build Status](https://github.com/deis/docker-go-dev/actions/workflows/docker-publish.yml/badge.svg)](https://quay.io/repository/deis/go-dev?tab=tags)
 
