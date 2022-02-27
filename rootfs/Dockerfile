@@ -1,7 +1,7 @@
 FROM ubuntu:20.04
 
-LABEL name="deis-go-dev" \
-  maintainer="Matt Boersma <matt.boersma@microsoft.com>"
+LABEL name="go-dev-env" \
+  maintainer="Benny Kritzer <benny.kritzer@gmail.com>"
 
 ENV ANSIBLE_VERSION=4.2.0 \
   AZCLI_VERSION=2.33.1 \
